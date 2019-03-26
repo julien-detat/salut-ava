@@ -1,7 +1,16 @@
 body {
 	background-color: red;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: darkblue;
 }
+
 
 h1:hover {
 	color: white;
 }
+
+
+
+
+
+
